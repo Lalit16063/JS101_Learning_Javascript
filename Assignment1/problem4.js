@@ -1,0 +1,22 @@
+
+console.log("****************************************");
+console.log("           🅐🅝🅤🅐🅛 🅡🅔🅟🅞🅡🅣 🅒🅐🅡🅓      ");
+console.log("****************************************");
+console.log("                                       #");
+console.log("Name :- Lalit                          #");
+console.log("School :- Masai                        #");
+console.log("Grade :- A                             #");
+console.log("Section :- B                           #");
+console.log("Roll.No :- 1124                        #");
+console.log("                                       #");
+console.log("***************************************#");
+console.log("Subjects |    Marks   |    Out-Of      #");
+console.log("---------|------------|----------------#");
+console.log("Maths    |     65     |      100       #");
+console.log("---------|------------|----------------#");
+console.log("Science  |     75     |      100       #");
+console.log("---------|------------|----------------#");
+console.log("History  |     80     |      100       #");
+console.log("---------|------------|----------------#");
+console.log("Total    |    220     |      300       #");
+console.log("***************************************#");
